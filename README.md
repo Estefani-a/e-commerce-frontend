@@ -67,7 +67,30 @@ El objetivo principal de este proyecto es implementar un sistema de carrito de c
 - Si no hay errores el comando anterior devolvera en la terminal una URL similar a la siguiente [http://localhost:5173](http://localhost:5173) que permite ver el proyecto en el navegador.
 - Si el proyecto no se visualiza en el navegador con la URL indicada por la terminal, puedes revisar si hay errores utilizando la consola del navegador con el atajo `fn` + `F12` o con la opcion Inspeccionar del navegador.
 
-## Imagenes del proyecto
+## Imágenes del proyecto
+
+![1home](https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/HomeView.PNG "1home")
+
+---
+
+<div align="center">
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/crearCarritoView.PNG" alt="imagen2" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/listaCarritosView.PNG" alt="imagen3" width="45%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/CrearProductoView.PNG" alt="imagen4" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/ListaDeProductosView.PNG" alt="imagen5" width="45%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/EditarProductoView.PNG" alt="imagen6" width="45%" height="305px" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/DetalleDeCarritoView.PNG" alt="imagen7" width="45%" />
+</div>
 
  &nbsp;
  
