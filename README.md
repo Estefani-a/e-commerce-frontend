@@ -88,7 +88,7 @@ El objetivo principal de este proyecto es implementar un sistema de carrito de c
 ---
 
 <div align="center">
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/EditarProductoView.PNG" alt="imagen6" width="45%" height="290px"/>
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/EditarProductoView.PNG" alt="imagen6" width="45%" />
   <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/DetalleDeCarritoView.PNG" alt="imagen7" width="45%" />
 </div>
 
