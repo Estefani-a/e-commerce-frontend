@@ -3,11 +3,16 @@
 <div align="center"> Frontend de la aplicación que permite realizar ventas online y implementa un carrito de compras utilizando React para el frontend y Java para el backend. </div> &nbsp;
 
 <p align="center">
-  <a href="https://www.oracle.com/java/">
-    <img src="https://badgen.net/badge/language/java/orange" alt="Java Badge"/></a>
-  <a href="https://spring.io/">
-    <img src="https://badgen.net/badge/framework/spring/green" alt="Spring Badge"/></a>
+  <a href="https://react.dev/">
+    <img src="https://badgen.net/badge/library/react/blue" alt="React Badge"/></a>
+  <a href="https://vitejs.dev/">
+    <img src="https://badgen.net/badge/build/vite/purple" alt="Vite Badge"/></a>
+  <a href="https://chakra-ui.com/">
+    <img src="https://badgen.net/badge/ui-library/chakra/green" alt="Chakra UI Badge"/></a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://badgen.net/badge/ide/vscode/blue" alt="VS Code Badge"/></a>
 </p>
+
 
 ---
 
@@ -58,7 +63,9 @@ El objetivo principal de este proyecto es implementar un sistema de carrito de c
 - Si no hay errores el comando anterior devolvera en la terminal una URL similar a la siguiente [http://localhost:5173](http://localhost:5173) que permite ver el proyecto en el navegador.
 - Si el proyecto no se visualiza en el navegador con la URL indicada por la terminal, puedes revisar si hay errores utilizando la consola del navegador con el atajo `fn` + `F12` o con la opcion Inspeccionar del navegador.
 
-## Autor
+ &nbsp;
+ 
+## Autor 👩🏻‍💻
 
 Estefanía Sassone
 
