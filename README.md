@@ -22,6 +22,7 @@
 - [Getting Started](#getting-started)
   - [Requisitos previos](#requisitos-previos)
   - [Ejecución Local](#ejecucion-local)
+- [Imagenes del proyecto](imagenes-del-proyecto)
 - [Autor](#autor)
 
 ---
@@ -51,17 +52,22 @@ El objetivo principal de este proyecto es implementar un sistema de carrito de c
 
 #### 1. Instala Node.js
 - Para poder ejecutar el proyecto debes instalar Node.js si no lo tienes instalado, puedes hacerlo desde su web oficial [Node.js](https://nodejs.org).
+
+#### 2. Elimina la carpeta `node_modules`
+- Si la carpeta  `node_modules` existe en el proyecto debes eliminarla para evitar problemas con las dependencias de React.
      
-#### 2. Abre el proyecto
+#### 3. Abre el proyecto
 - Abre la carpeta que contiene el proyecto en el IDE compatible con React que utilizes.
 
-#### 3. Instala las dependencias
+#### 4. Instala las dependencias
 - Para que el proyecto se ejecute correctamente es vital instalar las dependencias. Puedes hacerlo desde el IDE o con la terminal del sistema usando el comando `npm install`.
 
-#### 4. Ejecuta el proyecto
+#### 5. Ejecuta el proyecto
 - Ejecuta el proyecto con el comando `npm run dev`
 - Si no hay errores el comando anterior devolvera en la terminal una URL similar a la siguiente [http://localhost:5173](http://localhost:5173) que permite ver el proyecto en el navegador.
 - Si el proyecto no se visualiza en el navegador con la URL indicada por la terminal, puedes revisar si hay errores utilizando la consola del navegador con el atajo `fn` + `F12` o con la opcion Inspeccionar del navegador.
+
+## Imagenes del proyecto
 
  &nbsp;
  
