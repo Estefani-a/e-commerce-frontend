@@ -69,27 +69,27 @@ El objetivo principal de este proyecto es implementar un sistema de carrito de c
 
 ## Imágenes del proyecto
 
-![1home](https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/HomeView.PNG "1home")
+![1home](https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/HomeView.PNG "1home")
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/crearCarritoView.PNG" alt="imagen2" width="45%" />
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/listaCarritosView.PNG" alt="imagen3" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/crearCarritoView.PNG" alt="imagen2" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/listaCarritosView.PNG" alt="imagen3" width="45%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/CrearProductoView.PNG" alt="imagen4" width="45%" />
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/ListaDeProductosView.PNG" alt="imagen5" width="45%"/>
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/CrearProductoView.PNG" alt="imagen4" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/ListaDeProductosView.PNG" alt="imagen5" width="45%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/EditarProductoView.PNG" alt="imagen6" width="45%" />
-  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/public/img/DetalleDeCarritoView.PNG" alt="imagen7" width="45%" />
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/EditarProductoView.PNG" alt="imagen6" width="45%" height="300px"/>
+  <img src="https://github.com/Estefani-a/e-commerce-frontend/blob/main/img/DetalleDeCarritoView.PNG" alt="imagen7" width="45%" />
 </div>
 
  &nbsp;
